@@ -1,0 +1,35 @@
+Year,Incident,INES level,Country,Location,IAEA description,latitude,longitude
+2011,Fukushima,5,Japan,"(37.319444, 141.021111)",Reactor shutdown after the 2011 Sendai earthquake and tsunami; failure of emergency cooling caused an explosion,37.319444,141.021111
+2011,Onagawa,2,Japan,"(38.401111, 141.499722)",Reactor shutdown after the 2011 Sendai earthquake and tsunami caused a fire,38.401111,141.499722
+2006,Fleurus,4,Belgium,"(50.48307, 4.54967)",Severe health effects for a worker at a commercial irradiation facility as a result of high doses of radiation,50.48307,4.54967
+2006,Forsmark,2,Sweden,"(60.403333, 18.166667)",Degraded safety functions for common cause failure in the emergency power supply system at nuclear power plant,60.403333,18.166667
+2006,Erwin,2,US,"(36.145, -82.410833)",Thirty-five litres of a highly enriched uranium solution leaked during transfer,36.145,-82.410833
+2005,Sellafield,3,UK,"(54.4205, -3.4975)","Release of large quantity of radioactive material, contained within the installation",54.4205,-3.4975
+2005,Atucha,2,Argentina,"(-33.967519, -59.205119)",Overexposure of a worker at a power reactor exceeding the annual limit,-33.967519,-59.205119
+2005,Braidwood,0,US,"(41.243611, -88.229167)",Nuclear material leak,41.243611,-88.229167
+2003,Paks,3,Hungary,"(46.5725, 18.854167)",Partially spent fuel rods undergoing cleaning in a tank of heavy water ruptured and spilled fuel pellets,46.5725,18.854167
+1999,Tokaimura,4,Japan,"(36.4667, 140.5667)",Fatal overexposures of workers following a criticality event at a nuclear facility,36.4667,140.5667
+1999,Yanangio,3,Peru,"(-11.2212, -75.4695)",Incident with radiography source resulting in severe radiation burns,-11.2212,-75.4695
+1999,Ikitelli,3,Turkey,"(41.0792, 28.7825)",Loss of a highly radioactive Co-60 source,41.0792,28.7825
+1999,Ishikawa,2,Japan,"(37.061111, 136.726389)",Control rod malfunction,37.061111,136.726389
+1993,Tomsk,4,Russia,"(56.5, 84.966667)",Pressure buildup led to an explosive mechanical failure,56.5,84.966667
+1993,Cadarache,2,France,"(43.6875, 5.761944)",Spread of contamination to an area not expected by design,43.6875,5.761944
+1989,Vandellos,3,Spain,"(40.951389, 0.866667)",Near accident caused by fire resulting in loss of safety systems at the nuclear power station,40.951389,0.866667
+1989,Greifswald,2,Germany,"(54.140586, 13.664422)",Excessive heating which damaged ten fuel rods,54.140586,13.664422
+1986,Chernobyl,7,Ukraine (USSR),"(51.389553, 30.099147)",Widespread health and environmental effects. External release of a significant fraction of reactor core inventory,51.389553,30.099147
+1986,Hamm-Uentrop,0,Germany,"(51.679167, 7.971667)",Spherical fuel pebble became lodged in the pipe used to deliver fuel elements to the reactor,51.679167,7.971667
+1981,Tsuraga,2,Japan,"(35.672778, 136.0775)",More than 100 workers were exposed to doses of up to 155 millirem per day radiation,35.672778,136.0775
+1980,Saint Laurent des Eaux,4,France,"(47.720556, 1.578611)",Melting of one channel of fuel in the reactor with no release outside the site,47.720556,1.578611
+1979,Three Mile Island,5,US,"(40.153889, -76.724722)",Severe damage to the reactor core,40.153889,-76.724722
+1977,Jaslovské Bohunice,4,Czechoslovakia,"(48.476111, 17.65)","Damaged fuel integrity, extensive corrosion damage of fuel cladding and release of radioactivity",48.476111,17.65
+1969,Lucens,4,Switzerland,"(46.692822, 6.826892)",Total loss of coolant led to a power excursion and explosion of experimental reactor,46.692822,6.826892
+1967,Chapelcross,4,UK,"(55.01566, -3.22605)",Graphite debris partially blocked a fuel channel causing a fuel element to melt and catch fire,55.01566,-3.22605
+1966,Monroe,4,US,"(41.889167, -83.345556)",Sodium cooling system malfunction,41.889167,-83.345556
+1964,Charlestown,0,US,"(41.436111, -71.694444)",Error by a worker at a United Nuclear Corporation fuel facility led to an accidental criticality,41.436111,-71.694444
+1959,Santa Susana Field Laboratory,4,US,"(34.230822, -118.696375)",Partial core meltdown,34.230822,-118.696375
+1958,Chalk River,5,Canada,"(46.0502, -77.361)",Due to inadequate cooling a damaged uranium fuel rod caught fire and was torn in two,46.0502,-77.361
+1958,Vinča,4,Yugoslavia,"(44.758292, 20.5962)",During a subcritical counting experiment a power buildup went undetected - six scientists received high doses,44.758292,20.5962
+1957,Kyshtym,6,Russia,"(55.7125, 60.848056)","Significant release of radioactive material
+to the environment from explosion of a high activity waste tank.",55.7125,60.848056
+1957,Windscale Pile,5,UK,"(54.4237, -3.4982)",Release of radioactive material to the environment following a fire in a reactor core,54.4237,-3.4982
+1952,Chalk River,5,Canada,"(46.0502, -77.361)","A reactor shutoff rod failure, combined with several operator errors, led to a major power excursion of more than double the reactor's rated output at AECL's NRX reactor",46.0502,-77.361
